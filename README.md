@@ -29,150 +29,104 @@ Welcome to my curated Java Learning Repository – a structured reference guide 
 
 ---
 
-## 📂Repository Structure
-
-java-learning-theory-code/
-
-├── README.md
-
-├── LICENSE
-
-├── .gitignore
-
-├── theory/
-
-│   ├── 01_OOP_Fundamentals.md
-
-│   ├── 02_Java_Evolution.md
-
-│   ├── 03_Java_Applications.md
-
-│   ├── 04_Constants_Variables_DataTypes.md
-
-│   ├── 05_Operators_Expressions.md
-
-│   ├── 06_Decision_Making_Branching.md
-
-│   ├── 07_Decision_Making_Looping.md
-
-│   ├── 08_Classes_Objects_Methods.md
-
-│   ├── 09_Arrays_Strings_Vectors.md
-
-│   ├── 10_Interfaces_Multiple_Inheritance.md
-
-│   ├── 11_Packages_Classes_Together.md
-
-│   ├── 12_Multithreaded_Programming.md
-
-│   ├── 13_Error_Exception_Handling.md
-
-│   ├── 14_Applet_Programming.md
-
-│   ├── 15_Graphics_AWT_Swing.md
-
-│   ├── 16_IO_Management.md
-
-│   ├── 17_Java_Collections.md
-
-│   ├── 18_JDBC_Connectivity.md
-
-│   ├── 19_Servlets_JSP.md
-
-│   └── 20_Appendices.md
-
-├── code/
-
-│   ├── 01_OOP_Fundamentals/
-
-│   │   ├── EncapsulationDemo.java
-
-│   │   ├── InheritanceExample.java
-
-│   │   └── PolymorphismExample.java
-
-│   ├── 02_Java_Evolution/
-
-│   │   └── FirstJavaProgram.java
-
-│   ├── 03_Java_Applications/
-
-│   │   └── RealWorldUseCases.java
-
-│   ├── 04_Constants_Variables_DataTypes/
-
-
-│   │   └── DataTypesDemo.java
-
-│   ├── 05_Operators_Expressions/
-
-│   │   └── OperatorExamples.java
-
-│   ├── 06_Decision_Making_Branching/
-
-│   │   └── IfElseSwitchDemo.java
-
-│   ├── 07_Decision_Making_Looping/
-
-│   │   └── LoopsDemo.java
-
-│   ├── 08_Classes_Objects_Methods/
-
-│   │   └── ClassObjectDemo.java
-
-│   ├── 09_Arrays_Strings_Vectors/
-
-│   │   └── ArraysAndStrings.java
-
-│   ├── 10_Interfaces_Multiple_Inheritance/
-
-│   │   └── InterfaceExample.java
-
-│   ├── 11_Packages_Classes_Together/
-
-│   │   └── MyPackageDemo.java
-
-│   ├── 12_Multithreaded_Programming/
-
-│   │   └── ThreadDemo.java
-
-│   ├── 13_Error_Exception_Handling/
-
-│   │   └── TryCatchFinally.java
-
-│   ├── 14_Applet_Programming/
-
-│   │   └── SimpleApplet.java
-
-│   ├── 15_Graphics_AWT_Swing/
-
-│   │   ├── AWTExample.java
-
-│   │   └── SwingUIExample.java
-
-│   ├── 16_IO_Management/
-
-│   │   └── FileReadWrite.java
-
-│   ├── 17_Java_Collections/
-
-│   │   └── ListMapSetDemo.java
-
-│   ├── 18_JDBC_Connectivity/
-
-│   │   └── MySQLConnectorDemo.java
-
-│   ├── 19_Servlets_JSP/
-
-│   │   ├── SimpleServlet.java
-
-│   │   └── SampleJSP.jsp
-
-│   └── 20_Appendices/
-
-│       └── Extra_Concepts.md
-
-└── assets/
-    └── images/
-
-
+# 📚 Java Learning Theory &amp; Code Structure
+
+📁 Root
+
+- README.md
+- LICENSE
+- .gitignore
+
+theory/
+
+- 01\_OOP\_Fundamentals.md
+- 02\_Java\_Evolution.md
+- 03\_Java\_Applications.md
+- 04\_Constants\_Variables\_DataTypes.md
+- 05\_Operators\_Expressions.md
+- 06\_Decision\_Making\_Branching.md
+- 07\_Decision\_Making\_Looping.md
+- 08\_Classes\_Objects\_Methods.md
+- 09\_Arrays\_Strings\_Vectors.md
+- 10\_Interfaces\_Multiple\_Inheritance.md
+- 11\_Packages\_Classes\_Together.md
+- 12\_Multithreaded\_Programming.md
+- 13\_Error\_Exception\_Handling.md
+- 14\_Applet\_Programming.md
+- 15\_Graphics\_AWT\_Swing.md
+- 16\_IO\_Management.md
+- 17\_Java\_Collections.md
+- 18\_JDBC\_Connectivity.md
+- 19\_Servlets\_JSP.md
+- 20\_Appendices.md
+
+code/
+
+- 01\_OOP\_Fundamentals/
+  
+  - EncapsulationDemo.java
+  - InheritanceExample.java
+  - PolymorphismExample.java
+- 02\_Java\_Evolution/
+  
+  - FirstJavaProgram.java
+- 03\_Java\_Applications/
+  
+  - RealWorldUseCases.java
+- 04\_Constants\_Variables\_DataTypes/
+  
+  - DataTypesDemo.java
+- 05\_Operators\_Expressions/
+  
+  - OperatorExamples.java
+- 06\_Decision\_Making\_Branching/
+  
+  - IfElseSwitchDemo.java
+- 07\_Decision\_Making\_Looping/
+  
+  - LoopsDemo.java
+- 08\_Classes\_Objects\_Methods/
+  
+  - ClassObjectDemo.java
+- 09\_Arrays\_Strings\_Vectors/
+  
+  - ArraysAndStrings.java
+- 10\_Interfaces\_Multiple\_Inheritance/
+  
+  - InterfaceExample.java
+- 11\_Packages\_Classes\_Together/
+  
+  - MyPackageDemo.java
+- 12\_Multithreaded\_Programming/
+  
+  - ThreadDemo.java
+- 13\_Error\_Exception\_Handling/
+  
+  - TryCatchFinally.java
+- 14\_Applet\_Programming/
+  
+  - SimpleApplet.java
+- 15\_Graphics\_AWT\_Swing/
+  
+  - AWTExample.java
+  - SwingUIExample.java
+- 16\_IO\_Management/
+  
+  - FileReadWrite.java
+- 17\_Java\_Collections/
+  
+  - ListMapSetDemo.java
+- 18\_JDBC\_Connectivity/
+  
+  - MySQLConnectorDemo.java
+- 19\_Servlets\_JSP/
+  
+  - SimpleServlet.java
+  - SampleJSP.jsp
+- 20\_Appendices/
+  
+  - Extra\_Concepts.md
+
+assets/
+
+- images/
