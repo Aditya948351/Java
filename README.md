@@ -31,13 +31,13 @@ Welcome to my curated Java Learning Repository – a structured reference guide 
 
 # 📚 Java Learning Theory &amp; Code Structure
 
-📁 Root
+📁 Main
 
 - README.md
 - LICENSE
 - .gitignore
 
-theory/
+📂theory/
 
 - 01\_OOP\_Fundamentals.md
 - 02\_Java\_Evolution.md
@@ -60,7 +60,7 @@ theory/
 - 19\_Servlets\_JSP.md
 - 20\_Appendices.md
 
-code/
+📂Codes/
 
 - 01\_OOP\_Fundamentals/
   
