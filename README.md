@@ -16,5 +16,6 @@ TOPICS
 15. Graphics Programming using AWT , Swing and Layout Manager.
 16. Managing Input/Output files in Java.
 17. Java Collections.
-18. Java Database COnnectivity.
-19. Java Servlets and J
+18. Java Database Connectivity.
+19. Java Servlets and Java server pages (JSP).
+20.Appendices.
